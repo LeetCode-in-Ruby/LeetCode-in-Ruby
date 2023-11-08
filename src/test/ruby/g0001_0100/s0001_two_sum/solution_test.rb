@@ -1,4 +1,4 @@
-require_relative '../../../../main/ruby/g0001_0100/s0001_two_sum/solution'
+require_relative 'src/main/ruby/g0001_0100/s0001_two_sum/solution'
 require 'minitest/autorun'
 
 class TestTwoSum < Minitest::Test
