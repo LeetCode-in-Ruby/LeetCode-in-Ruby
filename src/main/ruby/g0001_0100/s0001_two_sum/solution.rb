@@ -9,4 +9,5 @@ def two_sum(nums, target)
     end
     dict[n] = i
   end
+  return -1, -1
 end
