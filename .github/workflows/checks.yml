@@ -24,5 +24,3 @@ jobs:
         run: bundle install
       - name: Run tests
         run: bundle exec rake test
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
