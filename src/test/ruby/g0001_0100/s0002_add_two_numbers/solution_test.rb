@@ -12,7 +12,7 @@ class SolutionTest < Minitest::Test
   end
 
   def test_add_two_numbers2
-    result = Solution.new.add_two_numbers(ListNode.new(0), ListNode.new(0))
+    result = add_two_numbers(ListNode.new(0), ListNode.new(0))
     assert_equal([0], result.to_a)
   end
 
