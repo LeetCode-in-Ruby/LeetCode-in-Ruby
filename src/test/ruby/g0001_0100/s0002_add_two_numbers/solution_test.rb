@@ -7,7 +7,7 @@ class SolutionTest < Minitest::Test
   def test_add_two_numbers
     list_node1 = LinkedListUtils.construct_linked_list([2, 4, 3])
     list_node2 = LinkedListUtils.construct_linked_list([5, 6, 4])
-    result = Solution.new.add_two_numbers(list_node1, list_node2)
+    result = add_two_numbers(list_node1, list_node2)
     assert_equal([7, 0, 8], result.to_a)
   end
 
@@ -19,7 +19,7 @@ class SolutionTest < Minitest::Test
   def test_add_two_numbers3
     list_node1 = LinkedListUtils.construct_linked_list([9, 9, 9, 9, 9, 9, 9])
     list_node2 = LinkedListUtils.construct_linked_list([9, 9, 9, 9])
-    result = Solution.new.add_two_numbers(list_node1, list_node2)
+    result = add_two_numbers(list_node1, list_node2)
     assert_equal([8, 9, 9, 9, 0, 0, 0, 1], result.to_a)
   end
 end
