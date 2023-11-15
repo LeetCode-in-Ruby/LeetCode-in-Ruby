@@ -1,8 +1,7 @@
-# Write your MySQL query statement below
-# #Medium #Top_Interview_Questions #String
+# #Medium #Top_Interview_Questions #String #2023_11_14_Time_67_ms_(67.26%)_Space_211.1_MB_(42.48%)
 
-# @param {String} string
-# @return {String}
+# @param {String} s
+# @return {Integer}
 def my_atoi(s)
   max = (2 ** 31) - 1
   min = (-2 ** 31)

@@ -1,7 +1,7 @@
-# Write your MySQL query statement below
-# #Medium #String
+# #Medium #String #2023_11_14_Time_77_ms_(100.00%)_Space_211_MB_(89.81%)
 
-# @param {String} string
+# @param {String} s
+# @param {Integer} num_rows
 # @return {String}
 def convert(s, num_rows)
   s_len = s.length

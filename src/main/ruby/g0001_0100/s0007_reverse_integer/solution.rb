@@ -1,5 +1,5 @@
-# Write your MySQL query statement below
 # #Medium #Top_Interview_Questions #Math #Udemy_Integers
+# #2023_11_14_Time_58_ms_(75.27%)_Space_211.2_MB_(14.29%)
 
 # @param {Integer} x
 # @return {Integer}
