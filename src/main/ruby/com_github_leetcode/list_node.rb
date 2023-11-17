@@ -2,9 +2,9 @@
 class ListNode
   attr_accessor :val, :next
 
-  def initialize(x)
+  def initialize(x = 0, _next = nil)
     @val = x
-    @next = nil
+    @next = _next
   end
 
   def to_a
