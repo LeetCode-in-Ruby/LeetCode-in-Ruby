@@ -7,7 +7,7 @@ class SolutionTest < Minitest::Test
   end
 
   def test_reverse2
-    assert_equal(-321, reverse(-123))
+    assert_equal -321, reverse(-123)
   end
 
   def test_reverse3

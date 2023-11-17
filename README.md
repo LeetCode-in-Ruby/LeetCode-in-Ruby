@@ -42,11 +42,13 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0015 |[3Sum](src/main/ruby/g0001_0100/s0015_3sum/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Big_O_Time_O(n\*log(n))_Space_O(n^2) | 659 | 83.74
 
 #### Day 4 Two Pointers
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0011 |[Container With Most Water](src/main/ruby/g0001_0100/s0011_container_with_most_water/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Greedy, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 114 | 95.98
 
 #### Day 5 Sliding Window
 
@@ -82,6 +84,8 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0017 |[Letter Combinations of a Phone Number](src/main/ruby/g0001_0100/s0017_letter_combinations_of_a_phone_number/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Backtracking, Big_O_Time_O(4^n)_Space_O(n) | 49 | 93.94
+| 0022 |[Generate Parentheses](src/main/ruby/g0001_0100/s0022_generate_parentheses/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Backtracking, Big_O_Time_O(2^n)_Space_O(n) | 43 | 100.00
 
 #### Day 12 Dynamic Programming
 
@@ -711,6 +715,7 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0021 |[Merge Two Sorted Lists](src/main/ruby/g0001_0100/s0021_merge_two_sorted_lists/solution.rb)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Big_O_Time_O(m+n)_Space_O(m+n) | 66 | 59.01
 
 #### Day 4 Linked List
 
@@ -789,6 +794,7 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0019 |[Remove Nth Node From End of List](src/main/ruby/g0001_0100/s0019_remove_nth_node_from_end_of_list/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Two_Pointers, Linked_List, Big_O_Time_O(L)_Space_O(L) | 51 | 95.27
 
 #### Day 4 Linked List
 
@@ -890,6 +896,7 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0003 |[Longest Substring Without Repeating Characters](src/main/ruby/g0001_0100/s0003_longest_substring_without_repeating_characters/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n)_Space_O(1) | 94 | 85.62
+| 0020 |[Valid Parentheses](src/main/ruby/g0001_0100/s0020_valid_parentheses/solution.rb)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, String, Stack, Big_O_Time_O(n)_Space_O(n) | 53 | 90.52
 | 0005 |[Longest Palindromic Substring](src/main/ruby/g0001_0100/s0005_longest_palindromic_substring/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 117 | 98.63
 
 #### Udemy Binary Search
@@ -907,6 +914,7 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0015 |[3Sum](src/main/ruby/g0001_0100/s0015_3sum/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Big_O_Time_O(n\*log(n))_Space_O(n^2) | 659 | 83.74
 
 #### Udemy Famous Algorithm
 
@@ -927,6 +935,9 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0024 |[Swap Nodes in Pairs](src/main/ruby/g0001_0100/s0024_swap_nodes_in_pairs/solution.rb)| Medium | Top_100_Liked_Questions, Linked_List, Recursion, Big_O_Time_O(n)_Space_O(1) | 59 | 76.00
+| 0021 |[Merge Two Sorted Lists](src/main/ruby/g0001_0100/s0021_merge_two_sorted_lists/solution.rb)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Big_O_Time_O(m+n)_Space_O(m+n) | 66 | 59.01
+| 0025 |[Reverse Nodes in k-Group](src/main/ruby/g0001_0100/s0025_reverse_nodes_in_k_group/solution.rb)| Hard | Top_100_Liked_Questions, Linked_List, Recursion, Big_O_Time_O(n)_Space_O(k) | 62 | 91.67
 
 #### Udemy Tree Stack Queue
 
@@ -953,6 +964,8 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0022 |[Generate Parentheses](src/main/ruby/g0001_0100/s0022_generate_parentheses/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Backtracking, Big_O_Time_O(2^n)_Space_O(n) | 43 | 100.00
+| 0017 |[Letter Combinations of a Phone Number](src/main/ruby/g0001_0100/s0017_letter_combinations_of_a_phone_number/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Backtracking, Big_O_Time_O(4^n)_Space_O(n) | 49 | 93.94
 
 #### Udemy Bit Manipulation
 
@@ -1001,6 +1014,7 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0021 |[Merge Two Sorted Lists](src/main/ruby/g0001_0100/s0021_merge_two_sorted_lists/solution.rb)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Big_O_Time_O(m+n)_Space_O(m+n) | 66 | 59.01
 
 #### Day 8 Linked List
 
@@ -1011,6 +1025,7 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0020 |[Valid Parentheses](src/main/ruby/g0001_0100/s0020_valid_parentheses/solution.rb)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, String, Stack, Big_O_Time_O(n)_Space_O(n) | 53 | 90.52
 
 #### Day 10 Tree
 
@@ -1043,6 +1058,7 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0015 |[3Sum](src/main/ruby/g0001_0100/s0015_3sum/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Big_O_Time_O(n\*log(n))_Space_O(n^2) | 659 | 83.74
 
 #### Day 2 Array
 
@@ -1100,11 +1116,13 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0024 |[Swap Nodes in Pairs](src/main/ruby/g0001_0100/s0024_swap_nodes_in_pairs/solution.rb)| Medium | Top_100_Liked_Questions, Linked_List, Recursion, Big_O_Time_O(n)_Space_O(1) | 59 | 76.00
 
 #### Day 13 Linked List
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0025 |[Reverse Nodes in k-Group](src/main/ruby/g0001_0100/s0025_reverse_nodes_in_k_group/solution.rb)| Hard | Top_100_Liked_Questions, Linked_List, Recursion, Big_O_Time_O(n)_Space_O(k) | 62 | 91.67
 
 #### Day 14 Stack Queue
 
@@ -1172,6 +1190,7 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0019 |[Remove Nth Node From End of List](src/main/ruby/g0001_0100/s0019_remove_nth_node_from_end_of_list/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Two_Pointers, Linked_List, Big_O_Time_O(L)_Space_O(L) | 51 | 95.27
 
 #### Day 6 Sliding Window
 
@@ -1198,6 +1217,7 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0021 |[Merge Two Sorted Lists](src/main/ruby/g0001_0100/s0021_merge_two_sorted_lists/solution.rb)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Big_O_Time_O(m+n)_Space_O(m+n) | 66 | 59.01
 
 #### Day 11 Recursion Backtracking
 
@@ -1223,6 +1243,16 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | #    |      Title     | Difficulty  | Tag         | Time, ms | Time, %
 |------|----------------|-------------|-------------|----------|---------
+| 0025 |[Reverse Nodes in k-Group](src/main/ruby/g0001_0100/s0025_reverse_nodes_in_k_group/solution.rb)| Hard | Top_100_Liked_Questions, Linked_List, Recursion, Data_Structure_II_Day_13_Linked_List, Udemy_Linked_List, Big_O_Time_O(n)_Space_O(k) | 62 | 91.67
+| 0024 |[Swap Nodes in Pairs](src/main/ruby/g0001_0100/s0024_swap_nodes_in_pairs/solution.rb)| Medium | Top_100_Liked_Questions, Linked_List, Recursion, Data_Structure_II_Day_12_Linked_List, Udemy_Linked_List, Big_O_Time_O(n)_Space_O(1) | 59 | 76.00
+| 0023 |[Merge k Sorted Lists](src/main/ruby/g0001_0100/s0023_merge_k_sorted_lists/solution.rb)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Heap_Priority_Queue, Linked_List, Divide_and_Conquer, Merge_Sort, Big_O_Time_O(k\*n\*log(k))_Space_O(log(k)) | 76 | 87.95
+| 0022 |[Generate Parentheses](src/main/ruby/g0001_0100/s0022_generate_parentheses/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Backtracking, Algorithm_II_Day_11_Recursion_Backtracking, Udemy_Backtracking/Recursion, Big_O_Time_O(2^n)_Space_O(n) | 43 | 100.00
+| 0021 |[Merge Two Sorted Lists](src/main/ruby/g0001_0100/s0021_merge_two_sorted_lists/solution.rb)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Data_Structure_I_Day_7_Linked_List, Algorithm_I_Day_10_Recursion_Backtracking, Level_1_Day_3_Linked_List, Udemy_Linked_List, Big_O_Time_O(m+n)_Space_O(m+n) | 66 | 59.01
+| 0020 |[Valid Parentheses](src/main/ruby/g0001_0100/s0020_valid_parentheses/solution.rb)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, String, Stack, Data_Structure_I_Day_9_Stack_Queue, Udemy_Strings, Big_O_Time_O(n)_Space_O(n) | 53 | 90.52
+| 0019 |[Remove Nth Node From End of List](src/main/ruby/g0001_0100/s0019_remove_nth_node_from_end_of_list/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Two_Pointers, Linked_List, Algorithm_I_Day_5_Two_Pointers, Level_2_Day_3_Linked_List, Big_O_Time_O(L)_Space_O(L) | 51 | 95.27
+| 0017 |[Letter Combinations of a Phone Number](src/main/ruby/g0001_0100/s0017_letter_combinations_of_a_phone_number/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Backtracking, Algorithm_II_Day_11_Recursion_Backtracking, Udemy_Backtracking/Recursion, Big_O_Time_O(4^n)_Space_O(n) | 49 | 93.94
+| 0015 |[3Sum](src/main/ruby/g0001_0100/s0015_3sum/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Data_Structure_II_Day_1_Array, Algorithm_II_Day_3_Two_Pointers, Udemy_Two_Pointers, Big_O_Time_O(n\*log(n))_Space_O(n^2) | 659 | 83.74
+| 0011 |[Container With Most Water](src/main/ruby/g0001_0100/s0011_container_with_most_water/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Greedy, Two_Pointers, Algorithm_II_Day_4_Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 114 | 95.98
 | 0010 |[Regular Expression Matching](src/main/ruby/g0001_0100/s0010_regular_expression_matching/solution.rb)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Recursion, Udemy_Dynamic_Programming, Big_O_Time_O(m\*n)_Space_O(m\*n) | 66 | 94.44
 | 0009 |[Palindrome Number](src/main/ruby/g0001_0100/s0009_palindrome_number/solution.rb)| Easy | Math, Udemy_Integers | 83 | 74.19
 | 0008 |[String to Integer (atoi)](src/main/ruby/g0001_0100/s0008_string_to_integer_atoi/solution.rb)| Medium | Top_Interview_Questions, String | 67 | 67.26
