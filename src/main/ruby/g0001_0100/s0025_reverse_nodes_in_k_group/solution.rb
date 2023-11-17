@@ -13,8 +13,6 @@
 # @param {ListNode} head
 # @param {Integer} k
 # @return {ListNode}
-]
-
 def reverse_k_group(head, k)
   return head if head.nil? || head.next.nil? || k == 1
 

@@ -14,25 +14,25 @@
 # @param {ListNode} list1
 # @param {ListNode} list2
 # @return {ListNode}
-def merge_two_lists(l1, l2)
+def merge_two_lists(list1, list2)
   list = ListNode.new(-1)
   head = list
 
-  while l1 || l2
-    if l1 && l2
-      if l1.val <= l2.val
-        list.next = ListNode.new(l1.val)
-        l1 = l1.next
+  while list1 || list2
+    if list1 && list2
+      if list1.val <= list2.val
+        list.next = ListNode.new(list1.val)
+        list1 = list1.next
       else
-        list.next = ListNode.new(l2.val)
-        l2 = l2.next
+        list.next = ListNode.new(list2.val)
+        list2 = list2.next
       end
-    elsif l1
-      list.next = ListNode.new(l1.val)
-      l1 = l1.next
+    elsif list1
+      list.next = ListNode.new(list1.val)
+      list1 = list1.next
     else
-      list.next = ListNode.new(l2.val)
-      l2 = l2.next
+      list.next = ListNode.new(list2.val)
+      list2 = list2.next
     end
 
     list = list.next

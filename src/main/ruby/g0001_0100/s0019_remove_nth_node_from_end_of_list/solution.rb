@@ -2,6 +2,14 @@
 # #Algorithm_I_Day_5_Two_Pointers #Level_2_Day_3_Linked_List #Big_O_Time_O(L)_Space_O(L)
 # #2023_11_17_Time_51_ms_(95.27%)_Space_211_MB_(50.00%)
 
+# Definition for singly-linked list.
+# class ListNode
+#     attr_accessor :val, :next
+#     def initialize(val = 0, _next = nil)
+#         @val = val
+#         @next = _next
+#     end
+# end
 # @param {ListNode} head
 # @param {Integer} n
 # @return {ListNode}
