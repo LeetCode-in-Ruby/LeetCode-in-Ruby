@@ -32,6 +32,8 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0034 |[Find First and Last Position of Element in Sorted Array](src/main/ruby/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search | O(log n) Space O(1 | O(log n) Space O(1)
+| 0033 |[Search in Rotated Sorted Array](src/main/ruby/g0001_0100/s0033_search_in_rotated_sorted_array/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search | O(log n) Space O(1 | O(log n) Space O(1)
 
 #### Day 2 Binary Search
 
@@ -79,6 +81,7 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0039 |[Combination Sum](src/main/ruby/g0001_0100/s0039_combination_sum/solution.rb)| Medium | Top_100_Liked_Questions, Array, Backtracking | O(2 | O(2^n) Space O(n+2^n)
 
 #### Day 11 Recursion Backtracking
 
@@ -96,6 +99,7 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0045 |[Jump Game II](src/main/ruby/g0001_0100/s0045_jump_game_ii/solution.rb)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Greedy | O(n) Space O(1 | O(n) Space O(1)
 
 #### Day 14 Dynamic Programming
 
@@ -149,6 +153,7 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0035 |[Search Insert Position](src/main/ruby/g0001_0100/s0035_search_insert_position/solution.rb)| Easy | Top_100_Liked_Questions, Array, Binary_Search | O(log n) Space O(1 | O(log n) Space O(1)
 
 #### Day 3
 
@@ -164,6 +169,7 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0034 |[Find First and Last Position of Element in Sorted Array](src/main/ruby/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search | O(log n) Space O(1 | O(log n) Space O(1)
 
 #### Day 6
 
@@ -194,6 +200,7 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0033 |[Search in Rotated Sorted Array](src/main/ruby/g0001_0100/s0033_search_in_rotated_sorted_array/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search | O(log n) Space O(1 | O(log n) Space O(1)
 
 #### Day 12
 
@@ -323,6 +330,7 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0045 |[Jump Game II](src/main/ruby/g0001_0100/s0045_jump_game_ii/solution.rb)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Greedy | O(n) Space O(1 | O(n) Space O(1)
 
 #### Day 5
 
@@ -348,6 +356,7 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0042 |[Trapping Rain Water](src/main/ruby/g0001_0100/s0042_trapping_rain_water/solution.rb)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Two_Pointers, Stack, Monotonic_Stack | O(n) Space O(1 | O(n) Space O(1)
 
 #### Day 10
 
@@ -820,6 +829,7 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0033 |[Search in Rotated Sorted Array](src/main/ruby/g0001_0100/s0033_search_in_rotated_sorted_array/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search | O(log n) Space O(1 | O(log n) Space O(1)
 
 #### Day 9 Binary Search Tree
 
@@ -881,6 +891,8 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0039 |[Combination Sum](src/main/ruby/g0001_0100/s0039_combination_sum/solution.rb)| Medium | Top_100_Liked_Questions, Array, Backtracking | O(2 | O(2^n) Space O(n+2^n)
+| 0046 |[Permutations](src/main/ruby/g0001_0100/s0046_permutations/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Backtracking | O(n*n!) Space O(n+n!) | O(n*n!) Space O(n+n!)
 
 ### Udemy
 
@@ -903,17 +915,20 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0033 |[Search in Rotated Sorted Array](src/main/ruby/g0001_0100/s0033_search_in_rotated_sorted_array/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search | O(log n) Space O(1 | O(log n) Space O(1)
 
 #### Udemy Arrays
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0001 |[Two Sum](src/main/ruby/g0001_0100/s0001_two_sum/solution.rb)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Big_O_Time_O(n)_Space_O(n) | 57 | 89.38
+| 0041 |[First Missing Positive](src/main/ruby/g0001_0100/s0041_first_missing_positive/solution.rb)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table | O(n) Space O(n) | O(n) Space O(n)
 
 #### Udemy Two Pointers
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0042 |[Trapping Rain Water](src/main/ruby/g0001_0100/s0042_trapping_rain_water/solution.rb)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Two_Pointers, Stack, Monotonic_Stack | O(n) Space O(1 | O(n) Space O(1)
 | 0015 |[3Sum](src/main/ruby/g0001_0100/s0015_3sum/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Big_O_Time_O(n\*log(n))_Space_O(n^2) | 659 | 83.74
 
 #### Udemy Famous Algorithm
@@ -965,7 +980,9 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0022 |[Generate Parentheses](src/main/ruby/g0001_0100/s0022_generate_parentheses/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Backtracking, Big_O_Time_O(2^n)_Space_O(n) | 43 | 100.00
+| 0039 |[Combination Sum](src/main/ruby/g0001_0100/s0039_combination_sum/solution.rb)| Medium | Top_100_Liked_Questions, Array, Backtracking | O(2 | O(2^n) Space O(n+2^n)
 | 0017 |[Letter Combinations of a Phone Number](src/main/ruby/g0001_0100/s0017_letter_combinations_of_a_phone_number/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Backtracking, Big_O_Time_O(4^n)_Space_O(n) | 49 | 93.94
+| 0046 |[Permutations](src/main/ruby/g0001_0100/s0046_permutations/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Backtracking | O(n*n!) Space O(n+n!) | O(n*n!) Space O(n+n!)
 
 #### Udemy Bit Manipulation
 
@@ -1170,6 +1187,7 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0035 |[Search Insert Position](src/main/ruby/g0001_0100/s0035_search_insert_position/solution.rb)| Easy | Top_100_Liked_Questions, Array, Binary_Search | O(log n) Space O(1 | O(log n) Space O(1)
 
 #### Day 2 Two Pointers
 
@@ -1223,6 +1241,7 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0046 |[Permutations](src/main/ruby/g0001_0100/s0046_permutations/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Backtracking | O(n*n!) Space O(n+n!) | O(n*n!) Space O(n+n!)
 
 #### Day 12 Dynamic Programming
 
@@ -1243,6 +1262,16 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | #    |      Title     | Difficulty  | Tag         | Time, ms | Time, %
 |------|----------------|-------------|-------------|----------|---------
+| 0046 |[Permutations](src/main/ruby/g0001_0100/s0046_permutations/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Backtracking, Algorithm_I_Day_11_Recursion_Backtracking, Level_2_Day_20_Brute_Force/Backtracking, Udemy_Backtracking/Recursion | O(n*n!) Space O(n+n!) | O(n*n!) Space O(n+n!)
+| 0045 |[Jump Game II](src/main/ruby/g0001_0100/s0045_jump_game_ii/solution.rb)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Greedy, Algorithm_II_Day_13_Dynamic_Programming, Dynamic_Programming_I_Day_4 | O(n) Space O(1 | O(n) Space O(1)
+| 0042 |[Trapping Rain Water](src/main/ruby/g0001_0100/s0042_trapping_rain_water/solution.rb)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Two_Pointers, Stack, Monotonic_Stack, Dynamic_Programming_I_Day_9, Udemy_Two_Pointers | O(n) Space O(1 | O(n) Space O(1)
+| 0041 |[First Missing Positive](src/main/ruby/g0001_0100/s0041_first_missing_positive/solution.rb)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Udemy_Arrays | O(n) Space O(n) | O(n) Space O(n)
+| 0039 |[Combination Sum](src/main/ruby/g0001_0100/s0039_combination_sum/solution.rb)| Medium | Top_100_Liked_Questions, Array, Backtracking, Algorithm_II_Day_10_Recursion_Backtracking, Level_2_Day_20_Brute_Force/Backtracking, Udemy_Backtracking/Recursion | O(2 | O(2^n) Space O(n+2^n)
+| 0035 |[Search Insert Position](src/main/ruby/g0001_0100/s0035_search_insert_position/solution.rb)| Easy | Top_100_Liked_Questions, Array, Binary_Search, Algorithm_I_Day_1_Binary_Search, Binary_Search_I_Day_2 | O(log n) Space O(1 | O(log n) Space O(1)
+| 0034 |[Find First and Last Position of Element in Sorted Array](src/main/ruby/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Algorithm_II_Day_1_Binary_Search, Binary_Search_I_Day_5 | O(log n) Space O(1 | O(log n) Space O(1)
+| 0033 |[Search in Rotated Sorted Array](src/main/ruby/g0001_0100/s0033_search_in_rotated_sorted_array/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Algorithm_II_Day_1_Binary_Search, Binary_Search_I_Day_11, Level_2_Day_8_Binary_Search, Udemy_Binary_Search | O(log n) Space O(1 | O(log n) Space O(1)
+| 0032 |[Longest Valid Parentheses](src/main/ruby/g0001_0100/s0032_longest_valid_parentheses/solution.rb)| Hard | Top_100_Liked_Questions, String, Dynamic_Programming, Stack | O(n) Space O(1 | O(n) Space O(1)
+| 0031 |[Next Permutation](src/main/ruby/g0001_0100/s0031_next_permutation/solution.rb)| Medium | Top_100_Liked_Questions, Array, Two_Pointers | O(n) Space O(1 | O(n) Space O(1)
 | 0025 |[Reverse Nodes in k-Group](src/main/ruby/g0001_0100/s0025_reverse_nodes_in_k_group/solution.rb)| Hard | Top_100_Liked_Questions, Linked_List, Recursion, Data_Structure_II_Day_13_Linked_List, Udemy_Linked_List, Big_O_Time_O(n)_Space_O(k) | 62 | 91.67
 | 0024 |[Swap Nodes in Pairs](src/main/ruby/g0001_0100/s0024_swap_nodes_in_pairs/solution.rb)| Medium | Top_100_Liked_Questions, Linked_List, Recursion, Data_Structure_II_Day_12_Linked_List, Udemy_Linked_List, Big_O_Time_O(n)_Space_O(1) | 59 | 76.00
 | 0023 |[Merge k Sorted Lists](src/main/ruby/g0001_0100/s0023_merge_k_sorted_lists/solution.rb)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Heap_Priority_Queue, Linked_List, Divide_and_Conquer, Merge_Sort, Big_O_Time_O(k\*n\*log(k))_Space_O(log(k)) | 76 | 87.95
