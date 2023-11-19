@@ -1,7 +1,8 @@
 # #Hard #Top_100_Liked_Questions #String #Dynamic_Programming #Stack #Big_O_Time_O(n)_Space_O(1)
+# #2023_11_19_Time_73_ms_(82.61%)_Space_211_MB_(100.00%)
 
-# @param {String} string
-# @return {String}
+# @param {String} s
+# @return {Integer}
 def longest_valid_parentheses(s)
   max = 0
   left = 0

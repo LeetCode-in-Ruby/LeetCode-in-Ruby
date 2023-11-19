@@ -1,13 +1,14 @@
 # #Medium #Top_100_Liked_Questions #Array #Backtracking #Algorithm_II_Day_10_Recursion_Backtracking
 # #Level_2_Day_20_Brute_Force/Backtracking #Udemy_Backtracking/Recursion
-# #Big_O_Time_O(2^n)_Space_O(n+2^n)
+# #Big_O_Time_O(2^n)_Space_O(n+2^n) #2023_11_19_Time_79_ms_(74.84%)_Space_211.2_MB_(48.43%)
 
-# @param {String} string
-# @return {String}
-def combination_sum(coins, amount)
+# @param {Integer[]} candidates
+# @param {Integer} target
+# @return {Integer[][]}
+def combination_sum(candidates, target)
   ans = []
   sub_list = []
-  combination_sum_rec(coins.length, coins, amount, sub_list, ans)
+  combination_sum_rec(candidates.length, candidates, target, sub_list, ans)
   ans
 end
 

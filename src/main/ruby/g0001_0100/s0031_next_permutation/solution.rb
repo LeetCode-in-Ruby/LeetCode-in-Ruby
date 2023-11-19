@@ -1,7 +1,8 @@
 # #Medium #Top_100_Liked_Questions #Array #Two_Pointers #Big_O_Time_O(n)_Space_O(1)
+# #2023_11_19_Time_58_ms_(82.76%)_Space_211_MB_(86.21%)
 
-# @param {String} string
-# @return {String}
+# @param {Integer[]} nums
+# @return {Void} Do not return anything, modify nums in-place instead.
 def next_permutation(nums)
   return if nums.nil? || nums.length <= 1
 

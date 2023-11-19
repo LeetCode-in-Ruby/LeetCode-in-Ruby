@@ -1,9 +1,9 @@
 # #Hard #Top_100_Liked_Questions #Top_Interview_Questions #Array #Hash_Table #Udemy_Arrays
-# #Big_O_Time_O(n)_Space_O(n)
+# #Big_O_Time_O(n)_Space_O(n) #2023_11_19_Time_130_ms_(65.63%)_Space_215.5_MB_(64.06%)
 
-# @param {String} string
-# @return {String}
-def first_missing_positive(nums)
+# @param {Integer[]} nums
+# @return {Integer}
+def first_8missing_positive(nums)
   nums.each_with_index do |num, i|
     next if num <= 0 || num > nums.length || num == i + 1
 
