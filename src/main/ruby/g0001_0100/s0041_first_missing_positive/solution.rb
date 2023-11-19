@@ -3,7 +3,7 @@
 
 # @param {Integer[]} nums
 # @return {Integer}
-def first_8missing_positive(nums)
+def first_missing_positive(nums)
   nums.each_with_index do |num, i|
     next if num <= 0 || num > nums.length || num == i + 1
 
