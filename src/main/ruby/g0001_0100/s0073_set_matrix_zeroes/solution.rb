@@ -25,4 +25,3 @@ def set_zeroes(matrix)
   end
   matrix
 end
-
