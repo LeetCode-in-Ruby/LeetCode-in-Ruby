@@ -7,7 +7,6 @@
 # @param {Integer} target
 # @return {Boolean}
 def search_matrix(matrix, target)
-  end_row = matrix.length
   end_col = matrix[0].length
   target_row = 0
   result = false
