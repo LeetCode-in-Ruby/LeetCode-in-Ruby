@@ -33,7 +33,6 @@ def traverse(board, word, idx, i, j)
 
   board[i][j] = '#'
 
-  # res = false
   res = (traverse(board, word, idx + 1, i, j + 1) ||
       traverse(board, word, idx + 1, i, j - 1) ||
       traverse(board, word, idx + 1, i + 1, j) ||
