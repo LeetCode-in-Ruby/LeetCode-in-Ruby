@@ -356,6 +356,7 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0121 |[Best Time to Buy and Sell Stock](src/main/ruby/g0101_0200/s0121_best_time_to_buy_and_sell_stock/solution.rb)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 147 | 80.21
 
 #### Day 8
 
@@ -484,6 +485,7 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0104 |[Maximum Depth of Binary Tree](src/main/ruby/g0101_0200/s0104_maximum_depth_of_binary_tree/solution.rb)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(H) | 55 | 96.72
 
 #### Day 11 Containers and Libraries
 
@@ -751,11 +753,13 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0121 |[Best Time to Buy and Sell Stock](src/main/ruby/g0101_0200/s0121_best_time_to_buy_and_sell_stock/solution.rb)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 147 | 80.21
 
 #### Day 6 Tree
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0102 |[Binary Tree Level Order Traversal](src/main/ruby/g0101_0200/s0102_binary_tree_level_order_traversal/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(N) | 66 | 76.43
 
 #### Day 7 Binary Search
 
@@ -887,6 +891,7 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0101 |[Symmetric Tree](src/main/ruby/g0101_0200/s0101_symmetric_tree/solution.rb)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(log(N)) | 58 | 91.34
 
 #### Day 16 Design
 
@@ -922,6 +927,7 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0136 |[Single Number](src/main/ruby/g0101_0200/s0136_single_number/solution.rb)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Bit_Manipulation, Big_O_Time_O(N)_Space_O(1) | 68 | 78.44
 | 0007 |[Reverse Integer](src/main/ruby/g0001_0100/s0007_reverse_integer/solution.rb)| Medium | Top_Interview_Questions, Math | 58 | 75.27
 | 0009 |[Palindrome Number](src/main/ruby/g0001_0100/s0009_palindrome_number/solution.rb)| Easy | Math | 83 | 74.19
 
@@ -944,6 +950,7 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0121 |[Best Time to Buy and Sell Stock](src/main/ruby/g0101_0200/s0121_best_time_to_buy_and_sell_stock/solution.rb)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 147 | 80.21
 | 0001 |[Two Sum](src/main/ruby/g0001_0100/s0001_two_sum/solution.rb)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Big_O_Time_O(n)_Space_O(n) | 57 | 89.38
 | 0055 |[Jump Game](src/main/ruby/g0001_0100/s0055_jump_game/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1) | 88 | 95.88
 | 0075 |[Sort Colors](src/main/ruby/g0001_0100/s0075_sort_colors/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 54 | 88.46
@@ -980,6 +987,7 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0114 |[Flatten Binary Tree to Linked List](src/main/ruby/g0101_0200/s0114_flatten_binary_tree_to_linked_list/solution.rb)| Medium | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Stack, Linked_List, Big_O_Time_O(N)_Space_O(N) | 47 | 100.00
 | 0024 |[Swap Nodes in Pairs](src/main/ruby/g0001_0100/s0024_swap_nodes_in_pairs/solution.rb)| Medium | Top_100_Liked_Questions, Linked_List, Recursion, Big_O_Time_O(n)_Space_O(1) | 59 | 76.00
 | 0021 |[Merge Two Sorted Lists](src/main/ruby/g0001_0100/s0021_merge_two_sorted_lists/solution.rb)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Big_O_Time_O(m+n)_Space_O(m+n) | 66 | 59.01
 | 0025 |[Reverse Nodes in k-Group](src/main/ruby/g0001_0100/s0025_reverse_nodes_in_k_group/solution.rb)| Hard | Top_100_Liked_Questions, Linked_List, Recursion, Big_O_Time_O(n)_Space_O(k) | 62 | 91.67
@@ -989,6 +997,9 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0094 |[Binary Tree Inorder Traversal](src/main/ruby/g0001_0100/s0094_binary_tree_inorder_traversal/solution.rb)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Stack, Big_O_Time_O(n)_Space_O(n) | 56 | 84.00
+| 0102 |[Binary Tree Level Order Traversal](src/main/ruby/g0101_0200/s0102_binary_tree_level_order_traversal/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(N) | 66 | 76.43
+| 0104 |[Maximum Depth of Binary Tree](src/main/ruby/g0101_0200/s0104_maximum_depth_of_binary_tree/solution.rb)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(H) | 55 | 96.72
+| 0124 |[Binary Tree Maximum Path Sum](src/main/ruby/g0101_0200/s0124_binary_tree_maximum_path_sum/solution.rb)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Depth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(N) | 71 | 98.00
 | 0098 |[Validate Binary Search Tree](src/main/ruby/g0001_0100/s0098_validate_binary_search_tree/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Binary_Search_Tree, Big_O_Time_O(N)_Space_O(log(N)) | 68 | 70.23
 
 #### Udemy Trie and Heap
@@ -1048,6 +1059,7 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0121 |[Best Time to Buy and Sell Stock](src/main/ruby/g0101_0200/s0121_best_time_to_buy_and_sell_stock/solution.rb)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 147 | 80.21
 
 #### Day 4 Array
 
@@ -1092,6 +1104,9 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0102 |[Binary Tree Level Order Traversal](src/main/ruby/g0101_0200/s0102_binary_tree_level_order_traversal/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(N) | 66 | 76.43
+| 0104 |[Maximum Depth of Binary Tree](src/main/ruby/g0101_0200/s0104_maximum_depth_of_binary_tree/solution.rb)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(H) | 55 | 96.72
+| 0101 |[Symmetric Tree](src/main/ruby/g0101_0200/s0101_symmetric_tree/solution.rb)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(log(N)) | 58 | 91.34
 
 #### Day 12 Tree
 
@@ -1115,6 +1130,7 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0136 |[Single Number](src/main/ruby/g0101_0200/s0136_single_number/solution.rb)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Bit_Manipulation, Big_O_Time_O(N)_Space_O(1) | 68 | 78.44
 | 0015 |[3Sum](src/main/ruby/g0001_0100/s0015_3sum/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Big_O_Time_O(n\*log(n))_Space_O(n^2) | 659 | 83.74
 
 #### Day 2 Array
@@ -1194,6 +1210,7 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0105 |[Construct Binary Tree from Preorder and Inorder Traversal](src/main/ruby/g0101_0200/s0105_construct_binary_tree_from_preorder_and_inorder_traversal/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Tree, Binary_Tree, Divide_and_Conquer, Big_O_Time_O(N)_Space_O(N) | 71 | 91.78
 
 #### Day 16 Tree
 
@@ -1302,11 +1319,22 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0136 |[Single Number](src/main/ruby/g0101_0200/s0136_single_number/solution.rb)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Bit_Manipulation, Big_O_Time_O(N)_Space_O(1) | 68 | 78.44
 
 ## Algorithms
 
 | #    |      Title     | Difficulty  | Tag         | Time, ms | Time, %
 |------|----------------|-------------|-------------|----------|---------
+| 0136 |[Single Number](src/main/ruby/g0101_0200/s0136_single_number/solution.rb)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Bit_Manipulation, Data_Structure_II_Day_1_Array, Algorithm_I_Day_14_Bit_Manipulation, Udemy_Integers, Big_O_Time_O(N)_Space_O(1) | 68 | 78.44
+| 0131 |[Palindrome Partitioning](src/main/ruby/g0101_0200/s0131_palindrome_partitioning/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Backtracking, Big_O_Time_O(N\*2^N)_Space_O(2^N\*N) | 1192 | 63.64
+| 0128 |[Longest Consecutive Sequence](src/main/ruby/g0101_0200/s0128_longest_consecutive_sequence/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Union_Find, Big_O_Time_O(N_log_N)_Space_O(1) | 135 | 91.36
+| 0124 |[Binary Tree Maximum Path Sum](src/main/ruby/g0101_0200/s0124_binary_tree_maximum_path_sum/solution.rb)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Depth_First_Search, Tree, Binary_Tree, Udemy_Tree_Stack_Queue, Big_O_Time_O(N)_Space_O(N) | 71 | 98.00
+| 0121 |[Best Time to Buy and Sell Stock](src/main/ruby/g0101_0200/s0121_best_time_to_buy_and_sell_stock/solution.rb)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Data_Structure_I_Day_3_Array, Dynamic_Programming_I_Day_7, Level_1_Day_5_Greedy, Udemy_Arrays, Big_O_Time_O(N)_Space_O(1) | 147 | 80.21
+| 0114 |[Flatten Binary Tree to Linked List](src/main/ruby/g0101_0200/s0114_flatten_binary_tree_to_linked_list/solution.rb)| Medium | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Stack, Linked_List, Udemy_Linked_List, Big_O_Time_O(N)_Space_O(N) | 47 | 100.00
+| 0105 |[Construct Binary Tree from Preorder and Inorder Traversal](src/main/ruby/g0101_0200/s0105_construct_binary_tree_from_preorder_and_inorder_traversal/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Tree, Binary_Tree, Divide_and_Conquer, Data_Structure_II_Day_15_Tree, Big_O_Time_O(N)_Space_O(N) | 71 | 91.78
+| 0104 |[Maximum Depth of Binary Tree](src/main/ruby/g0101_0200/s0104_maximum_depth_of_binary_tree/solution.rb)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Data_Structure_I_Day_11_Tree, Programming_Skills_I_Day_10_Linked_List_and_Tree, Udemy_Tree_Stack_Queue, Big_O_Time_O(N)_Space_O(H) | 55 | 96.72
+| 0102 |[Binary Tree Level Order Traversal](src/main/ruby/g0101_0200/s0102_binary_tree_level_order_traversal/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Breadth_First_Search, Tree, Binary_Tree, Data_Structure_I_Day_11_Tree, Level_1_Day_6_Tree, Udemy_Tree_Stack_Queue, Big_O_Time_O(N)_Space_O(N) | 66 | 76.43
+| 0101 |[Symmetric Tree](src/main/ruby/g0101_0200/s0101_symmetric_tree/solution.rb)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Data_Structure_I_Day_11_Tree, Level_2_Day_15_Tree, Big_O_Time_O(N)_Space_O(log(N)) | 58 | 91.34
 | 0098 |[Validate Binary Search Tree](src/main/ruby/g0001_0100/s0098_validate_binary_search_tree/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Binary_Search_Tree, Data_Structure_I_Day_14_Tree, Level_1_Day_8_Binary_Search_Tree, Udemy_Tree_Stack_Queue, Big_O_Time_O(N)_Space_O(log(N)) | 68 | 70.23
 | 0096 |[Unique Binary Search Trees](src/main/ruby/g0001_0100/s0096_unique_binary_search_trees/solution.rb)| Medium | Top_100_Liked_Questions, Dynamic_Programming, Math, Tree, Binary_Tree, Binary_Search_Tree, Dynamic_Programming_I_Day_11, Big_O_Time_O(n)_Space_O(1) | 57 | 61.54
 | 0094 |[Binary Tree Inorder Traversal](src/main/ruby/g0001_0100/s0094_binary_tree_inorder_traversal/solution.rb)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Stack, Data_Structure_I_Day_10_Tree, Udemy_Tree_Stack_Queue, Big_O_Time_O(n)_Space_O(n) | 56 | 84.00
