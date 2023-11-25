@@ -2,8 +2,6 @@
 # #Breadth_First_Search #Graph #Topological_Sort #Big_O_Time_O(N)_Space_O(N)
 # #2023_11_25_Time_60_ms_(95.42%)_Space_212.4_MB_(26.72%)
 
-# @param {String} string
-# @return {String}
 WHITE = 0
 GRAY = 1
 BLACK = 2
