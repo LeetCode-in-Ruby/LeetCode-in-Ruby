@@ -13,7 +13,7 @@ def max_sliding_window(nums, k)
   i = 0
   j = 0
 
-  while j < nums.length
+  while j < n
     while !dq.empty? && dq.last < nums[j]
       dq.pop
     end
