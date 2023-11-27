@@ -58,6 +58,7 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0438 |[Find All Anagrams in a String](src/main/ruby/g0401_0500/s0438_find_all_anagrams_in_a_string/solution.rb)| Medium | Top_100_Liked_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n+m)_Space_O(1) | 186 | 82.72
 
 #### Day 6 Breadth First Search Depth First Search
 
@@ -118,6 +119,7 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0139 |[Word Break](src/main/ruby/g0101_0200/s0139_word_break/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Dynamic_Programming, Trie, Memoization, Big_O_Time_O(M+max\*N)_Space_O(M+N+max) | 64 | 79.31
 
 #### Day 16 Dynamic Programming
 
@@ -129,6 +131,7 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 1143 |[Longest Common Subsequence](src/main/ruby/g1101_1200/s1143_longest_common_subsequence/solution.rb)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n\*m)_Space_O(n\*m) | 828 | 75.00
 
 #### Day 18 Dynamic Programming
 
@@ -377,6 +380,7 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0139 |[Word Break](src/main/ruby/g0101_0200/s0139_word_break/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Dynamic_Programming, Trie, Memoization, Big_O_Time_O(M+max\*N)_Space_O(M+N+max) | 64 | 79.31
 | 0042 |[Trapping Rain Water](src/main/ruby/g0001_0100/s0042_trapping_rain_water/solution.rb)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Two_Pointers, Stack, Monotonic_Stack, Big_O_Time_O(n)_Space_O(1) | 69 | 80.74
 
 #### Day 10
@@ -434,6 +438,7 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 1143 |[Longest Common Subsequence](src/main/ruby/g1101_1200/s1143_longest_common_subsequence/solution.rb)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n\*m)_Space_O(n\*m) | 828 | 75.00
 | 0072 |[Edit Distance](src/main/ruby/g0001_0100/s0072_edit_distance/solution.rb)| Hard | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n2) | 139 | 73.91
 
 #### Day 20
@@ -542,6 +547,7 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0739 |[Daily Temperatures](src/main/ruby/g0701_0800/s0739_daily_temperatures/solution.rb)| Medium | Top_100_Liked_Questions, Array, Stack, Monotonic_Stack, Big_O_Time_O(n)_Space_O(n) | 490 | 84.71
 
 #### Day 7
 
@@ -574,6 +580,7 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0438 |[Find All Anagrams in a String](src/main/ruby/g0401_0500/s0438_find_all_anagrams_in_a_string/solution.rb)| Medium | Top_100_Liked_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n+m)_Space_O(1) | 186 | 82.72
 
 #### Day 13
 
@@ -584,6 +591,7 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0138 |[Copy List with Random Pointer](src/main/ruby/g0101_0200/s0138_copy_list_with_random_pointer/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Linked_List, Big_O_Time_O(N)_Space_O(N) | 65 | 69.84
 
 #### Day 15
 
@@ -812,6 +820,7 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0438 |[Find All Anagrams in a String](src/main/ruby/g0401_0500/s0438_find_all_anagrams_in_a_string/solution.rb)| Medium | Top_100_Liked_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n+m)_Space_O(1) | 186 | 82.72
 
 #### Day 13 Hashmap
 
@@ -823,6 +832,7 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0394 |[Decode String](src/main/ruby/g0301_0400/s0394_decode_string/solution.rb)| Medium | Top_100_Liked_Questions, String, Stack, Recursion, Big_O_Time_O(n)_Space_O(n) | 58 | 84.09
 
 #### Day 15 Heap
 
@@ -869,6 +879,8 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0543 |[Diameter of Binary Tree](src/main/ruby/g0501_0600/s0543_diameter_of_binary_tree/solution.rb)| Easy | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Big_O_Time_O(n)_Space_O(n) | 64 | 86.54
+| 0437 |[Path Sum III](src/main/ruby/g0401_0500/s0437_path_sum_iii/solution.rb)| Medium | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Big_O_Time_O(n)_Space_O(n) | 205 | 61.54
 
 #### Day 8 Binary Search
 
@@ -904,6 +916,7 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0416 |[Partition Equal Subset Sum](src/main/ruby/g0401_0500/s0416_partition_equal_subset_sum/solution.rb)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Big_O_Time_O(n\*sums)_Space_O(n\*sums) | 1023 | 60.38
 | 0152 |[Maximum Product Subarray](src/main/ruby/g0101_0200/s0152_maximum_product_subarray/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 63 | 80.30
 
 #### Day 14 Sliding Window/Two Pointer
@@ -966,6 +979,7 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 | 0003 |[Longest Substring Without Repeating Characters](src/main/ruby/g0001_0100/s0003_longest_substring_without_repeating_characters/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n)_Space_O(1) | 94 | 85.62
 | 0020 |[Valid Parentheses](src/main/ruby/g0001_0100/s0020_valid_parentheses/solution.rb)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, String, Stack, Big_O_Time_O(n)_Space_O(n) | 53 | 90.52
 | 0005 |[Longest Palindromic Substring](src/main/ruby/g0001_0100/s0005_longest_palindromic_substring/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 117 | 98.63
+| 0394 |[Decode String](src/main/ruby/g0301_0400/s0394_decode_string/solution.rb)| Medium | Top_100_Liked_Questions, String, Stack, Recursion, Big_O_Time_O(n)_Space_O(n) | 58 | 84.09
 | 0049 |[Group Anagrams](src/main/ruby/g0001_0100/s0049_group_anagrams/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, String, Hash_Table, Sorting, Big_O_Time_O(n\*k_log_k)_Space_O(n) | 154 | 83.69
 
 #### Udemy Binary Search
@@ -1029,6 +1043,7 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 | 0021 |[Merge Two Sorted Lists](src/main/ruby/g0001_0100/s0021_merge_two_sorted_lists/solution.rb)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Big_O_Time_O(m+n)_Space_O(m+n) | 66 | 59.01
 | 0160 |[Intersection of Two Linked Lists](src/main/ruby/g0101_0200/s0160_intersection_of_two_linked_lists/solution.rb)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Two_Pointers, Linked_List, Big_O_Time_O(M+N)_Space_O(1) | 108 | 75.86
 | 0234 |[Palindrome Linked List](src/main/ruby/g0201_0300/s0234_palindrome_linked_list/solution.rb)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Two_Pointers, Stack, Linked_List, Recursion, Big_O_Time_O(n)_Space_O(1) | 297 | 78.26
+| 0138 |[Copy List with Random Pointer](src/main/ruby/g0101_0200/s0138_copy_list_with_random_pointer/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Linked_List, Big_O_Time_O(N)_Space_O(N) | 65 | 69.84
 | 0025 |[Reverse Nodes in k-Group](src/main/ruby/g0001_0100/s0025_reverse_nodes_in_k_group/solution.rb)| Hard | Top_100_Liked_Questions, Linked_List, Recursion, Big_O_Time_O(n)_Space_O(k) | 62 | 91.67
 | 0146 |[LRU Cache](src/main/ruby/g0101_0200/s0146_lru_cache/lrucache.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Design, Linked_List, Doubly_Linked_List, Big_O_Time_O(1)_Space_O(capacity) | 290 | 78.05
 
@@ -1038,6 +1053,7 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 |-|-|-|-|-|-
 | 0094 |[Binary Tree Inorder Traversal](src/main/ruby/g0001_0100/s0094_binary_tree_inorder_traversal/solution.rb)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Stack, Big_O_Time_O(n)_Space_O(n) | 56 | 84.00
 | 0102 |[Binary Tree Level Order Traversal](src/main/ruby/g0101_0200/s0102_binary_tree_level_order_traversal/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(N) | 66 | 76.43
+| 0543 |[Diameter of Binary Tree](src/main/ruby/g0501_0600/s0543_diameter_of_binary_tree/solution.rb)| Easy | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Big_O_Time_O(n)_Space_O(n) | 64 | 86.54
 | 0226 |[Invert Binary Tree](src/main/ruby/g0201_0300/s0226_invert_binary_tree/solution.rb)| Easy | Top_100_Liked_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(n)_Space_O(n) | 54 | 89.43
 | 0104 |[Maximum Depth of Binary Tree](src/main/ruby/g0101_0200/s0104_maximum_depth_of_binary_tree/solution.rb)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(H) | 55 | 96.72
 | 0124 |[Binary Tree Maximum Path Sum](src/main/ruby/g0101_0200/s0124_binary_tree_maximum_path_sum/solution.rb)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Depth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(N) | 71 | 98.00
@@ -1060,11 +1076,13 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0139 |[Word Break](src/main/ruby/g0101_0200/s0139_word_break/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Dynamic_Programming, Trie, Memoization, Big_O_Time_O(M+max\*N)_Space_O(M+N+max) | 64 | 79.31
 | 0152 |[Maximum Product Subarray](src/main/ruby/g0101_0200/s0152_maximum_product_subarray/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 63 | 80.30
 | 0198 |[House Robber](src/main/ruby/g0101_0200/s0198_house_robber/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 41 | 99.28
 | 0070 |[Climbing Stairs](src/main/ruby/g0001_0100/s0070_climbing_stairs/solution.rb)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Memoization, Big_O_Time_O(n)_Space_O(n) | 48 | 96.01
 | 0064 |[Minimum Path Sum](src/main/ruby/g0001_0100/s0064_minimum_path_sum/solution.rb)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Matrix, Big_O_Time_O(m\*n)_Space_O(m\*n) | 78 | 52.50
 | 0300 |[Longest Increasing Subsequence](src/main/ruby/g0201_0300/s0300_longest_increasing_subsequence/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Binary_Search, Big_O_Time_O(n\*log_n)_Space_O(n) | 68 | 96.55
+| 1143 |[Longest Common Subsequence](src/main/ruby/g1101_1200/s1143_longest_common_subsequence/solution.rb)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n\*m)_Space_O(n\*m) | 828 | 75.00
 | 0072 |[Edit Distance](src/main/ruby/g0001_0100/s0072_edit_distance/solution.rb)| Hard | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n2) | 139 | 73.91
 | 0010 |[Regular Expression Matching](src/main/ruby/g0001_0100/s0010_regular_expression_matching/solution.rb)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Recursion, Big_O_Time_O(m\*n)_Space_O(m\*n) | 66 | 94.44
 
@@ -1210,6 +1228,7 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0238 |[Product of Array Except Self](src/main/ruby/g0201_0300/s0238_product_of_array_except_self/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Prefix_Sum, Big_O_Time_O(n^2)_Space_O(n) | 123 | 76.59
+| 0560 |[Subarray Sum Equals K](src/main/ruby/g0501_0600/s0560_subarray_sum_equals_k/solution.rb)| Medium | Top_100_Liked_Questions, Array, Hash_Table, Prefix_Sum, Big_O_Time_O(n)_Space_O(n) | 112 | 51.61
 
 #### Day 6 String
 
@@ -1220,6 +1239,7 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0763 |[Partition Labels](src/main/ruby/g0701_0800/s0763_partition_labels/solution.rb)| Medium | Top_100_Liked_Questions, String, Hash_Table, Greedy, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 62 | 100.00
 
 #### Day 8 String
 
@@ -1297,6 +1317,7 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0215 |[Kth Largest Element in an Array](src/main/ruby/g0201_0300/s0215_kth_largest_element_in_an_array/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Heap_Priority_Queue, Divide_and_Conquer, Quickselect, Big_O_Time_O(n\*log(n))_Space_O(log(n)) | 123 | 93.55
+| 0347 |[Top K Frequent Elements](src/main/ruby/g0301_0400/s0347_top_k_frequent_elements/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Sorting, Heap_Priority_Queue, Counting, Divide_and_Conquer, Quickselect, Bucket_Sort, Big_O_Time_O(n\*log(n))_Space_O(k) | 67 | 83.85
 
 #### Day 21 Heap Priority Queue
 
@@ -1390,6 +1411,18 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 
 | #    |      Title     | Difficulty  | Tag         | Time, ms | Time, %
 |------|----------------|-------------|-------------|----------|---------
+| 1143 |[Longest Common Subsequence](src/main/ruby/g1101_1200/s1143_longest_common_subsequence/solution.rb)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Algorithm_II_Day_17_Dynamic_Programming, Dynamic_Programming_I_Day_19, Udemy_Dynamic_Programming, Big_O_Time_O(n\*m)_Space_O(n\*m) | 828 | 75.00
+| 0763 |[Partition Labels](src/main/ruby/g0701_0800/s0763_partition_labels/solution.rb)| Medium | Top_100_Liked_Questions, String, Hash_Table, Greedy, Two_Pointers, Data_Structure_II_Day_7_String, Big_O_Time_O(n)_Space_O(1) | 62 | 100.00
+| 0739 |[Daily Temperatures](src/main/ruby/g0701_0800/s0739_daily_temperatures/solution.rb)| Medium | Top_100_Liked_Questions, Array, Stack, Monotonic_Stack, Programming_Skills_II_Day_6, Big_O_Time_O(n)_Space_O(n) | 490 | 84.71
+| 0647 |[Palindromic Substrings](src/main/ruby/g0601_0700/s0647_palindromic_substrings/solution.rb)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n) | 101 | 100.00
+| 0560 |[Subarray Sum Equals K](src/main/ruby/g0501_0600/s0560_subarray_sum_equals_k/solution.rb)| Medium | Top_100_Liked_Questions, Array, Hash_Table, Prefix_Sum, Data_Structure_II_Day_5_Array, Big_O_Time_O(n)_Space_O(n) | 112 | 51.61
+| 0543 |[Diameter of Binary Tree](src/main/ruby/g0501_0600/s0543_diameter_of_binary_tree/solution.rb)| Easy | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Level_2_Day_7_Tree, Udemy_Tree_Stack_Queue, Big_O_Time_O(n)_Space_O(n) | 64 | 86.54
+| 0494 |[Target Sum](src/main/ruby/g0401_0500/s0494_target_sum/solution.rb)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Backtracking, Big_O_Time_O(n\*(sum+s))_Space_O(n\*(sum+s)) | 149 | 76.92
+| 0438 |[Find All Anagrams in a String](src/main/ruby/g0401_0500/s0438_find_all_anagrams_in_a_string/solution.rb)| Medium | Top_100_Liked_Questions, String, Hash_Table, Sliding_Window, Algorithm_II_Day_5_Sliding_Window, Programming_Skills_II_Day_12, Level_1_Day_12_Sliding_Window/Two_Pointer, Big_O_Time_O(n+m)_Space_O(1) | 186 | 82.72
+| 0437 |[Path Sum III](src/main/ruby/g0401_0500/s0437_path_sum_iii/solution.rb)| Medium | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Level_2_Day_7_Tree, Big_O_Time_O(n)_Space_O(n) | 205 | 61.54
+| 0416 |[Partition Equal Subset Sum](src/main/ruby/g0401_0500/s0416_partition_equal_subset_sum/solution.rb)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Level_2_Day_13_Dynamic_Programming, Big_O_Time_O(n\*sums)_Space_O(n\*sums) | 1023 | 60.38
+| 0394 |[Decode String](src/main/ruby/g0301_0400/s0394_decode_string/solution.rb)| Medium | Top_100_Liked_Questions, String, Stack, Recursion, Level_1_Day_14_Stack, Udemy_Strings, Big_O_Time_O(n)_Space_O(n) | 58 | 84.09
+| 0347 |[Top K Frequent Elements](src/main/ruby/g0301_0400/s0347_top_k_frequent_elements/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Sorting, Heap_Priority_Queue, Counting, Divide_and_Conquer, Quickselect, Bucket_Sort, Data_Structure_II_Day_20_Heap_Priority_Queue, Big_O_Time_O(n\*log(n))_Space_O(k) | 67 | 83.85
 | 0338 |[Counting Bits](src/main/ruby/g0301_0400/s0338_counting_bits/solution.rb)| Easy | Top_100_Liked_Questions, Dynamic_Programming, Bit_Manipulation, Udemy_Bit_Manipulation, Big_O_Time_O(num)_Space_O(num) | 90 | 96.34
 | 0322 |[Coin Change](src/main/ruby/g0301_0400/s0322_coin_change/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Breadth_First_Search, Algorithm_II_Day_18_Dynamic_Programming, Dynamic_Programming_I_Day_20, Level_2_Day_12_Dynamic_Programming, Big_O_Time_O(m\*n)_Space_O(amount) | 655 | 84.96
 | 0300 |[Longest Increasing Subsequence](src/main/ruby/g0201_0300/s0300_longest_increasing_subsequence/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Binary_Search, Algorithm_II_Day_16_Dynamic_Programming, Binary_Search_II_Day_3, Dynamic_Programming_I_Day_18, Udemy_Dynamic_Programming, Big_O_Time_O(n\*log_n)_Space_O(n) | 68 | 96.55
@@ -1420,6 +1453,8 @@ Ruby-based LeetCode algorithm problem solutions, regularly updated.
 | 0146 |[LRU Cache](src/main/ruby/g0101_0200/s0146_lru_cache/lrucache.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Design, Linked_List, Doubly_Linked_List, Udemy_Linked_List, Big_O_Time_O(1)_Space_O(capacity) | 290 | 78.05
 | 0142 |[Linked List Cycle II](src/main/ruby/g0101_0200/s0142_linked_list_cycle_ii/solution.rb)| Medium | Top_100_Liked_Questions, Hash_Table, Two_Pointers, Linked_List, Data_Structure_II_Day_10_Linked_List, Level_1_Day_4_Linked_List, Udemy_Linked_List, Big_O_Time_O(N)_Space_O(1) | 62 | 93.94
 | 0141 |[Linked List Cycle](src/main/ruby/g0101_0200/s0141_linked_list_cycle/solution.rb)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Two_Pointers, Linked_List, Data_Structure_I_Day_7_Linked_List, Udemy_Linked_List, Big_O_Time_O(N)_Space_O(1) | 58 | 97.65
+| 0139 |[Word Break](src/main/ruby/g0101_0200/s0139_word_break/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Dynamic_Programming, Trie, Memoization, Algorithm_II_Day_15_Dynamic_Programming, Dynamic_Programming_I_Day_9, Udemy_Dynamic_Programming, Big_O_Time_O(M+max\*N)_Space_O(M+N+max) | 64 | 79.31
+| 0138 |[Copy List with Random Pointer](src/main/ruby/g0101_0200/s0138_copy_list_with_random_pointer/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Linked_List, Programming_Skills_II_Day_14, Udemy_Linked_List, Big_O_Time_O(N)_Space_O(N) | 65 | 69.84
 | 0136 |[Single Number](src/main/ruby/g0101_0200/s0136_single_number/solution.rb)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Bit_Manipulation, Data_Structure_II_Day_1_Array, Algorithm_I_Day_14_Bit_Manipulation, Udemy_Integers, Big_O_Time_O(N)_Space_O(1) | 68 | 78.44
 | 0131 |[Palindrome Partitioning](src/main/ruby/g0101_0200/s0131_palindrome_partitioning/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Backtracking, Big_O_Time_O(N\*2^N)_Space_O(2^N\*N) | 1192 | 63.64
 | 0128 |[Longest Consecutive Sequence](src/main/ruby/g0101_0200/s0128_longest_consecutive_sequence/solution.rb)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Union_Find, Big_O_Time_O(N_log_N)_Space_O(1) | 135 | 91.36

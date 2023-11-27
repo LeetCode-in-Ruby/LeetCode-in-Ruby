@@ -19,8 +19,8 @@ class SolutionTest < Minitest::Test
     node11.random = node1
     node10.random = node11
     node1.random = node7
-    expected_result = [[7, nil], [13, 0], [11, 4], [10, 2], [1, 0]]
-    assert_equal expected_result, copy_random_list(node7)
+    expected_result = '[[7, nil],[13, 0],[11, 4],[10, 2],[1, 0]]'
+    assert_equal expected_result, copy_random_list(node7).to_s
   end
 
   def test_copy_random_list_2
@@ -30,8 +30,8 @@ class SolutionTest < Minitest::Test
     node1.random = node1
     node2.next = nil
     node2.random = node2
-    expected_result = [[1, 1], [2, 1]]
-    assert_equal expected_result, copy_random_list(node1)
+    expected_result = '[[1, 0],[2, 1]]'
+    assert_equal expected_result, copy_random_list(node1).to_s
   end
 
   def test_copy_random_list_3
@@ -44,7 +44,7 @@ class SolutionTest < Minitest::Test
     node32.random = node31
     node33.next = nil
     node33.random = nil
-    expected_result = [[3, nil], [3, 0], [3, nil]]
-    assert_equal expected_result, copy_random_list(node31)
+    expected_result = '[[3, nil],[3, 0],[3, nil]]'
+    assert_equal expected_result, copy_random_list(node31).to_s
   end
 end

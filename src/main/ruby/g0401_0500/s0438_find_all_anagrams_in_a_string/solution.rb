@@ -6,7 +6,7 @@
 # @param {String} s
 # @param {String} p
 # @return {Integer[]}
-g def find_anagrams(s, p)
+def find_anagrams(s, p)
   map = Array.new(26, 0)
 
   p.each_char {|char| map[char.ord - 'a'.ord] += 1}
