@@ -16,7 +16,7 @@ require_relative '../../com_github_leetcode/random/node'
 
 # @param {Node} node
 # @return {Node}
-def copy_random_list(head)
+def copyRandomList(head)
   return nil if head.nil?
 
   # First pass to create cloned nodes and insert them after the original nodes
