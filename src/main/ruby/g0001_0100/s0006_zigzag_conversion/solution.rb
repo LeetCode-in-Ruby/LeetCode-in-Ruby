@@ -1,4 +1,5 @@
-# #Medium #String #2023_11_14_Time_77_ms_(100.00%)_Space_211_MB_(89.81%)
+# #Medium #String #Top_Interview_150_Array/String
+# #2023_11_14_Time_77_ms_(100.00%)_Space_211_MB_(89.81%)
 
 # @param {String} s
 # @param {Integer} num_rows

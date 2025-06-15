@@ -1,6 +1,7 @@
-# #Easy #Top_100_Liked_Questions #Top_Interview_Questions #Stack #Design
+# #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Stack #Design
 # #Data_Structure_II_Day_14_Stack_Queue #Programming_Skills_II_Day_18 #Level_2_Day_16_Design
-# #Udemy_Design #Big_O_Time_O(1)_Space_O(N) #2023_11_24_Time_76_ms_(79.40%)_Space_215.2_MB_(6.53%)
+# #Udemy_Design #Top_Interview_150_Stack #Big_O_Time_O(1)_Space_O(N)
+# #2023_11_24_Time_76_ms_(79.40%)_Space_215.2_MB_(6.53%)
 
 # @param {String} string
 # @return {String}

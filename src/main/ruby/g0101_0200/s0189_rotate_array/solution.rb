@@ -1,6 +1,6 @@
 # #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Array #Math #Two_Pointers
-# #Algorithm_I_Day_2_Two_Pointers #Udemy_Arrays #Big_O_Time_O(n)_Space_O(1)
-# #2023_11_24_Time_100_ms_(92.40%)_Space_218.6_MB_(81.37%)
+# #Algorithm_I_Day_2_Two_Pointers #Udemy_Arrays #Top_Interview_150_Array/String
+# #Big_O_Time_O(n)_Space_O(1) #2023_11_24_Time_100_ms_(92.40%)_Space_218.6_MB_(81.37%)
 
 # @param {Integer[]} nums
 # @param {Integer} k

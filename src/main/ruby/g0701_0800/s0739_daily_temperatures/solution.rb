@@ -1,5 +1,6 @@
-# #Medium #Top_100_Liked_Questions #Array #Stack #Monotonic_Stack #Programming_Skills_II_Day_6
-# #Big_O_Time_O(n)_Space_O(n) #2023_11_27_Time_490_ms_(84.71%)_Space_233.3_MB_(18.82%)
+# #Medium #Top_100_Liked_Questions #Array #Stack #Monotonic_Stack #LeetCode_75_Monotonic_Stack
+# #Programming_Skills_II_Day_6 #Big_O_Time_O(n)_Space_O(n)
+# #2023_11_27_Time_490_ms_(84.71%)_Space_233.3_MB_(18.82%)
 
 # @param {Integer[]} temperatures
 # @return {Integer[]}

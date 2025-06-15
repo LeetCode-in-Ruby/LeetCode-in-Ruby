@@ -1,4 +1,4 @@
-# #Medium #Top_100_Liked_Questions #String #Dynamic_Programming #Big_O_Time_O(n^2)_Space_O(n)
+# #Medium #String #Dynamic_Programming #Big_O_Time_O(n^2)_Space_O(n)
 # #2023_11_27_Time_101_ms_(100.00%)_Space_211.2_MB_(28.57%)
 
 # @param {String} s

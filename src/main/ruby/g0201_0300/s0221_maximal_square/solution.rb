@@ -1,5 +1,5 @@
-# #Medium #Top_100_Liked_Questions #Array #Dynamic_Programming #Matrix
-# #Dynamic_Programming_I_Day_16 #Big_O_Time_O(m*n)_Space_O(m*n)
+# #Medium #Array #Dynamic_Programming #Matrix #Dynamic_Programming_I_Day_16
+# #Top_Interview_150_Multidimensional_DP #Big_O_Time_O(m*n)_Space_O(m*n)
 # #2023_11_25_Time_184_ms_(80.00%)_Space_221.3_MB_(70.00%)
 
 # @param {Character[][]} matrix

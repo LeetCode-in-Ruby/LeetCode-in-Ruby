@@ -1,4 +1,5 @@
-# #Easy #Math #Udemy_Integers #2023_11_14_Time_83_ms_(74.19%)_Space_211.1_MB_(43.29%)
+# #Easy #Math #Udemy_Integers #Top_Interview_150_Math
+# #2023_11_14_Time_83_ms_(74.19%)_Space_211.1_MB_(43.29%)
 
 # @param {Integer} x
 # @return {Boolean}
