@@ -7,7 +7,7 @@ on:
     branches: [ main ]
 
 env:
-  RUBY_VERSION: 3.0
+  RUBY_VERSION: 3.2
   SIMPLECOV_THRESHOLD: 100
 
 jobs:
