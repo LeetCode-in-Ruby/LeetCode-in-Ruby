@@ -1,5 +1,6 @@
-# #Easy #Top_100_Liked_Questions #Dynamic_Programming #Bit_Manipulation #Udemy_Bit_Manipulation
-# #Big_O_Time_O(num)_Space_O(num) #2023_11_26_Time_90_ms_(96.34%)_Space_215.9_MB_(60.98%)
+# #Easy #Dynamic_Programming #Bit_Manipulation #LeetCode_75_Bit_Manipulation
+# #Udemy_Bit_Manipulation #Big_O_Time_O(num)_Space_O(num)
+# #2023_11_26_Time_90_ms_(96.34%)_Space_215.9_MB_(60.98%)
 
 # @param {Integer} num
 # @return {Integer[]}

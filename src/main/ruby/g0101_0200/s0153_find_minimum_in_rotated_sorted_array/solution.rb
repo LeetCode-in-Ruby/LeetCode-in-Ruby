@@ -1,6 +1,6 @@
 # #Medium #Top_100_Liked_Questions #Array #Binary_Search #Algorithm_II_Day_2_Binary_Search
-# #Binary_Search_I_Day_12 #Udemy_Binary_Search #Big_O_Time_O(log_N)_Space_O(log_N)
-# #2023_11_24_Time_58_ms_(78.74%)_Space_211.1_MB_(78.74%)
+# #Binary_Search_I_Day_12 #Udemy_Binary_Search #Top_Interview_150_Binary_Search
+# #Big_O_Time_O(log_N)_Space_O(log_N) #2023_11_24_Time_58_ms_(78.74%)_Space_211.1_MB_(78.74%)
 
 # @param {Integer[]} nums
 # @return {Integer}

@@ -1,5 +1,5 @@
-# #Easy #Top_100_Liked_Questions #Top_Interview_Questions #Two_Pointers #Stack #Linked_List
-# #Recursion #Level_2_Day_3_Linked_List #Udemy_Linked_List #Big_O_Time_O(n)_Space_O(1)
+# #Easy #Top_100_Liked_Questions #Two_Pointers #Stack #Linked_List #Recursion
+# #Level_2_Day_3_Linked_List #Udemy_Linked_List #Big_O_Time_O(n)_Space_O(1)
 # #2023_11_25_Time_297_ms_(78.26%)_Space_219.7_MB_(94.57%)
 
 require_relative '../../com_github_leetcode/list_node'

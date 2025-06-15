@@ -1,6 +1,6 @@
 # #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Sorting #Two_Pointers #Linked_List
-# #Divide_and_Conquer #Merge_Sort #Level_2_Day_4_Linked_List #Big_O_Time_O(log(N))_Space_O(log(N))
-# #2023_11_24_Time_188_ms_(84.21%)_Space_224_MB_(21.05%)
+# #Divide_and_Conquer #Merge_Sort #Level_2_Day_4_Linked_List #Top_Interview_150_Divide_and_Conquer
+# #Big_O_Time_O(log(N))_Space_O(log(N)) #2023_11_24_Time_188_ms_(84.21%)_Space_224_MB_(21.05%)
 
 require_relative '../../com_github_leetcode/list_node'
 

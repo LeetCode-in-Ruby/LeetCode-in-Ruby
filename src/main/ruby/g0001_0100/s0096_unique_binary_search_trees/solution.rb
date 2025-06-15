@@ -1,5 +1,5 @@
-# #Medium #Top_100_Liked_Questions #Dynamic_Programming #Math #Tree #Binary_Tree
-# #Binary_Search_Tree #Dynamic_Programming_I_Day_11 #Big_O_Time_O(n)_Space_O(1)
+# #Medium #Dynamic_Programming #Math #Tree #Binary_Tree #Binary_Search_Tree
+# #Dynamic_Programming_I_Day_11 #Big_O_Time_O(n)_Space_O(1)
 # #2023_11_22_Time_57_ms_(61.54%)_Space_211_MB_(76.92%)
 
 # @param {Integer} n

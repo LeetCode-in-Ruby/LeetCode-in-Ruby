@@ -1,6 +1,6 @@
-# #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Array #Dynamic_Programming
-# #Breadth_First_Search #Algorithm_II_Day_18_Dynamic_Programming #Dynamic_Programming_I_Day_20
-# #Level_2_Day_12_Dynamic_Programming #Big_O_Time_O(m*n)_Space_O(amount)
+# #Medium #Top_100_Liked_Questions #Array #Dynamic_Programming #Breadth_First_Search
+# #Algorithm_II_Day_18_Dynamic_Programming #Dynamic_Programming_I_Day_20
+# #Level_2_Day_12_Dynamic_Programming #Top_Interview_150_1D_DP #Big_O_Time_O(m*n)_Space_O(amount)
 # #2023_11_26_Time_655_ms_(84.96%)_Space_217.7_MB_(39.82%)
 
 # @param {Integer[]} coins

@@ -1,5 +1,6 @@
 # #Hard #Top_100_Liked_Questions #Top_Interview_Questions #Array #Binary_Search #Divide_and_Conquer
-# #Big_O_Time_O(log(min(N,M)))_Space_O(1) #2023_11_12_Time_64_ms_(93.81%)_Space_212.7_MB_(57.89%)
+# #Top_Interview_150_Binary_Search #Big_O_Time_O(log(min(N,M)))_Space_O(1)
+# #AI_can_be_used_to_solve_the_task #2023_11_12_Time_64_ms_(93.81%)_Space_212.7_MB_(57.89%)
 
 # @param {Integer[]} nums1
 # @param {Integer[]} nums2
